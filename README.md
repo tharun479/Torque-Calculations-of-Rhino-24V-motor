@@ -1,7 +1,7 @@
 # ⚙️ Rhino IG52 Motor Torque Analysis
 
 This repository contains the analysis of the **Rhino 24V 210RPM 100W IG52 Planetary Geared DC Motor**, focusing on torque calculations and performance comparison.  
-All detailed results are documented in [`Overall_report.pdf`](./Overall_report.pdf).
+All detailed results are documented in [`Torque_calculations_URC.pdf`](./Torque_calculations_URC.pdf).
 
 ---
 
